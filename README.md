@@ -18,5 +18,4 @@ A centralized collection of demo projects, experiments, and proof-of-concept imp
 ```text
 .
 ├── README.md
-└── computer-vision/
-    └── dermanet-cnn/
+└── dermanet-cnn/
