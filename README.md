@@ -7,7 +7,7 @@ A centralized collection of demo projects, experiments, and proof-of-concept imp
 ## 📂 Project Directory
 
 ### 👁️ Computer Vision (`/computer-vision`)
-* **[DERMANet CNN](./computer-vision/dermanet-cnn)** – Deep convolutional neural network implementation for feature extraction/attention-driven vision tasks.
+* **[DERMANet CNN](./dermanet-cnn)** – Deep convolutional neural network implementation for feature extraction/attention-driven vision tasks.
 
 <!-- Add future categories below (e.g., Natural Language Processing, Reinforcement Learning, Backend) -->
 
