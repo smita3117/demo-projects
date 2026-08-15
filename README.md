@@ -1,6 +1,6 @@
 # 🚀 Demo Projects
 
-A centralized collection of demo projects, experiments, and proof-of-concept implementations across various AI and software domains.
+A centralized collection of demo projects, experiments, and proof-of-concept implementations across various AI and ML models.
 
 ---
 
